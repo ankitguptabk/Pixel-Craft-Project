@@ -8,8 +8,6 @@ It is mobile-friendly and is very easy to use.
 ## Overview
 This App is Available at both these locations
 
-https://rgab1508.github.io/PixelCraft
-
 https://pixelcraft.web.app
 
 On opening, you will get a screen as Follows
