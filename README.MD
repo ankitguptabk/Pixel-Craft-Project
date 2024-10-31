@@ -6,9 +6,9 @@ It is mobile-friendly and is very easy to use.
 ![PixelCraft](icons/logo.png)
 
 ## Overview
-This App is Available at both these locations
+This App is Available at
 
-https://pixelcraft.web.app
+https://ankitguptabk.github.io/Pixel-Craft-Project/
 
 On opening, you will get a screen as Follows
 
